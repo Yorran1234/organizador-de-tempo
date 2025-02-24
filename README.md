@@ -53,8 +53,3 @@ organizador_de_tempo/
 │── agenda.json      # Arquivo de armazenamento dos eventos
 ```
 
-## Melhorias Futuras
-- Interface gráfica (GUI) para facilitar o uso
-- Integração com calendários online (Google Calendar, Outlook)
-- Opção de edição de eventos
-
